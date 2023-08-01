@@ -44,7 +44,7 @@ const quotes = [
     },
 
     {
-        quote:"One of the only ways to get out of a tight box is to invent your way out.”",
+        quote:"One of the only ways to get out of a tight box is to invent your way out.",
         author:"Jeff Bezos",
 
     },
